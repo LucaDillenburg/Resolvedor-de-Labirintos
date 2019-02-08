@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"coordenada"},{"l":"fila"},{"l":"pilha"}]
